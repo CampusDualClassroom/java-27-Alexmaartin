@@ -48,6 +48,4 @@ public class JSONCreator {
         item.addProperty("quantity", quantity);
         return item;
     }
-
-
 }
